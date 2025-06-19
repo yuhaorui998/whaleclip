@@ -1,6 +1,8 @@
 # whaleclip
 🚀 Revolutionizing video production with AI—smarter, faster, and more intuitive than ever.
 
+Download address：www.whaleclip.com
+
 Overview
 WhaleCut 3.0 is a next-generation AI-powered video editing and content creation platform designed to automate and simplify professional-grade video production. By integrating large language models (LLMs), computer vision, and advanced audio processing, WhaleCut enables users to generate, edit, and optimize videos using natural language commands, drastically reducing the learning curve and production time.
 
