@@ -84,8 +84,5 @@ Thumbnail Maker 🖼️	Custom video thumbnails for higher CTR.
 ✅ All-in-one workflow – No switching between apps.
 ✅ Ethical AI use – Compliance with copyright & platform policies.
 
-📌 Get Started
-🔗 GitHub: [Insert Repo Link]
-📧 Contact: [Your Email]
 
 "Empowering creators with AI—so you can focus on storytelling."
