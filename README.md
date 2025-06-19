@@ -14,7 +14,7 @@ Whether you're a content creator, marketer, educator, or developer, WhaleCut 3.0
 Natural Language Video Editing: Control editing tools via AI chat—simply describe what you want (e.g., "Trim the first 5 seconds, add a fade transition, and increase brightness by 20%"), and the AI executes it.
 
 No timeline expertise required—ideal for beginners and professionals alike.
-![Uploading 00d45fc188b687cc29d831ad51da918.jpg…]()
+
 
 
 2. Script-to-Video Generation 📝 → 🎥
